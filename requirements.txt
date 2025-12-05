@@ -1,0 +1,9 @@
+pip
+pygame>=2.5.0
+pillow>=10.0.0
+pillow-heif>=0.13.0
+pyinstaller
+
+
+put into
+C:\Windows\System32\
