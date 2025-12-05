@@ -1,4 +1,4 @@
-```markdown
+
 # CrystalPhoto-ScreenSaver
 *A modern Python/PyGame photo screensaver engine built to replace the sluggish, limited, and non-random Windows screensaver.*
 
